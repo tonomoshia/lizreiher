@@ -310,3 +310,13 @@ footer {
 h1 {
   text-align: center;
 }
+
+nav ul li{
+  display: inline;
+}
+
+@media screen and (max-width: 678px){
+  nav{
+    display: none;
+  }
+}
