@@ -2,42 +2,28 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>{{ page.title }} | {{ site.title }}</title>
+    <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/css/style.css" />
-    <!-- Use your main stylesheet -->
+    <!-- Link to your CSS -->
   </head>
   <body>
-    <header style="background: #308cd6; color: white; padding: 2em 0">
-      <div class="container">
-        <h1
-          style="
-            font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
-            font-size: 3em;
-          "
-        >
-          lizreiher
-        </h1>
-        <!-- Add any navigation links if needed -->
-      </div>
-    </header>
-    <main
-      class="container"
-      style="
-        background: #fdfdfd;
-        margin: 2em auto;
-        padding: 1em 2em;
-        border-radius: 8px;
-        max-width: 700px;
-      "
-    >
-      <h1 style="font-size: 2em">{{ page.title }}</h1>
-      <p style="color: #888; margin-bottom: 2em">
-        {{ page.date | date: "%B %d, %Y" }}
-      </p>
-      <div>{{ content }}</div>
-    </main>
-    <footer style="text-align: center; color: #aaa; margin-top: 2em">
-      <!-- Optional: any footer content -->
+    <nav>
+      <a href="/">Home</a> | <a href="/blog.html">Blog</a>
+      <!-- Link to your blog index -->
+    </nav>
+
+    <article>
+      <h1>{{ page.title }}</h1>
+      <p><em>Published on {{ page.date | date: "%B %d, %Y" }}</em></p>
+
+      <section>
+        {{ content }}
+        <!-- This injects the Markdown post content rendered to HTML -->
+      </section>
+    </article>
+
+    <footer>
+      <p>© Your Name</p>
     </footer>
   </body>
 </html>
