@@ -335,3 +335,17 @@ nav a:hover {
 nav a.active {
   background-color: #007acc;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+}
