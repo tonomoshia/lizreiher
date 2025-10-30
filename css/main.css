@@ -321,17 +321,3 @@ nav ul li{
     display: none;
   }
 }
-nav a {
-  color: white;
-  text-decoration: none;
-  padding: 5px 10px;
-  border-radius: 5px;
-}
-
-nav a:hover {
-  background-color: #555;
-}
-
-nav a.active {
-  background-color: #007acc;
-}
