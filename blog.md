@@ -9,9 +9,5 @@ title: Blog
 ## [{{ post.title }}]({{ post.url }})
 *{{ post.date | date: "%B %d, %Y" }}*
 
-{{ post.excerpt }}
-
-[Read More]({{ post.url }})
-
 ---
 {% endfor %}
