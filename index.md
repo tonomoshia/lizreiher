@@ -52,6 +52,6 @@ A more formal listing of my work history is on my [LinkedIn profile](https://www
 
 ---
 
-## [Blog](/blog.html)
+## [Blog](/blog/)
 
 Check out my latest posts and thoughts on web development, WordPress, and technology.
