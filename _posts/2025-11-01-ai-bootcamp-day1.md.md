@@ -7,7 +7,6 @@ tags: [AI, Generative AI, Agentic AI, GitHub Copilot, Jekyll, TechHub]
 description: Reflections from Day 1 of South Florida Tech Hub’s AI Bootcamp — where I learned about Agentic AI, and finally got my GitHub blog working.
 ---
 
-## AI Bootcamp Day 1: Fixing My Own Tech Problem (and Learning a Lot About Agentic AI)
 
 Today was Day 1 of South Florida Tech Hub’s Inaugural AI Bootcamp, and it opened with a crash course in how broad “AI” really is. It’s not just about chatbots writing essays or code—it’s about how machines collect, consolidate, and act on data in real time.
 
