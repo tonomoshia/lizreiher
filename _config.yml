@@ -1,6 +1,4 @@
 theme: jekyll-theme-architect
+title: Elizabeth Reiher
+description: Web Developer | Paralegal | WordCamp Organizer
 permalink: /blog/:year/:month/:day/:title/
-collections:
-  posts:
-    output: true
-    permalink: /blog/:year/:month/:day/:title/
