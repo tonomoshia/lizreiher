@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+permalink: /blog/:year/:month/:day/:title/
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
