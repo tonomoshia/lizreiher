@@ -10,9 +10,8 @@ Welcome to my new blog! I'm excited to share my thoughts, experiences, and insig
 
 I'll be writing about:
 
-- Web development tips and tricks
-- WordPress insights from my work with WordCamp Miami
 - My learning journey in tech
+- Work I am doing to build my Paralegal Work Buddy
 - Agile methodologies
 - And much more!
 
