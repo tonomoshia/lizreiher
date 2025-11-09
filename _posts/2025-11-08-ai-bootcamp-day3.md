@@ -1,4 +1,4 @@
-[---
+---
 layout: post
 title: "AI Bootcamp Day 3: Building, Testing, and Thinking Beyond the Bootcamp"
 date: 2025-11-08
