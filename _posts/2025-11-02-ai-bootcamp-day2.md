@@ -7,8 +7,6 @@ tags: [AI, GitHub Copilot, Cursor, Replit, TechHub, Bootcamp]
 description: Reflections from Day 2 of South Florida Tech Hub’s AI Bootcamp — a virtual day of experimentation and hands-on exploration with AI development tools.
 ---
 
-## AI Bootcamp Day 2: Learning from Home, Experimenting with AI Tools
-
 Day 2 of South Florida Tech Hub’s AI Bootcamp was fully virtual. We met over Zoom, which gave everyone a chance to work from home and still stay connected. The day was lighter on lectures and heavier on hands-on exploration, focused on testing different AI-powered development tools.
 
 ### Sharing and Discussion

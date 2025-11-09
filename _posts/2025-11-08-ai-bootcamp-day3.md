@@ -7,8 +7,6 @@ tags: [AI, Agentic AI, Prototyping, Innovation, TechHub, Learning]
 description: Final reflections from Day 3 of South Florida Tech Hub’s AI Bootcamp — building prototypes, testing ideas, and learning that progress matters more than perfection.
 ---
 
-## AI Bootcamp Day 3: Building, Testing, and Thinking Beyond the Bootcamp
-
 The final day of South Florida Tech Hub’s AI Bootcamp wrapped up with a mix of reflection, experimentation, and project demos that proved how much ground we covered in just three sessions.
 
 ### Lessons from the Roundtable
