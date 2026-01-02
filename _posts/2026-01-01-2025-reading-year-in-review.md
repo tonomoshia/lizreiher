@@ -97,6 +97,6 @@ Next year I want to:
 
 If nothing else, this year confirmed one thing. Reading is still how I think, rest, and recalibrate.
 
-If you’re curious about any specific title from the wrap-up, feel free to reach out or check my StoryGraph profile.
+If you’re curious about any specific title from the wrap-up, feel free to reach out or check my [StoryGraph profile](https://app.thestorygraph.com/profile/amenitybobcat).
 
 Happy reading.
