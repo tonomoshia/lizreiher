@@ -5,9 +5,8 @@ date: 2026-01-01
 categories: [books, reading]
 description: "A reflection on my 2025 reading year, including five-star reads, patterns, and what I want to read next."
 ---
-<p align="center">
-  <img src="{{ '/assets/images/storygraph-wrap-up-cover-collage-2025.jpg' | relative_url }}" alt="StoryGraph 2025 Wrap-Up">
-</p>
+![StoryGraph 2025 Wrap-Up]({{ '/assets/images/storygraph-wrap-up-cover-collage-2025.jpg' | relative_url }})
+
 
 
 *My StoryGraph year at a glance. A little chaotic. Exactly accurate.*
@@ -33,9 +32,8 @@ I moved between genres deliberately. When one lane started to feel heavy, I swit
 
 ## Five-Star Reads
 
-<p align="center">
-  <img src="{{ '/assets/images/storygraph-5-star-reads-2025.png' | relative_url }}" alt="2025 5-Star Reads">
-</p>
+![Five-star reads from 2025]({{ '/assets/images/storygraph-5-star-reads-2025.png' | relative_url }})
+
 
 *The books that earned five stars. Not perfect, just the ones that stuck.*
 
