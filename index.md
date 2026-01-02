@@ -34,6 +34,8 @@ A more formal listing of my work history is on my [LinkedIn profile](https://www
 
 <i class="fa fa-twitter" aria-hidden="true"></i> [Twitter](https://twitter.com/tonomoshia)
 
+<i class="fa fa-mastodon" aria-hidden="true"></i> <a rel="me" href="https://phpc.social/@Tonomoshia">Mastodon</a>
+
 <i class="fa fa-instagram" aria-hidden="true"></i> [Instagram](https://www.instagram.com/femmequity/)
 
 <i class="fa fa-book" aria-hidden="true"></i> [Goodreads](https://www.goodreads.com/femmequity)
