@@ -7,7 +7,7 @@ description: "A reflection on my 2025 reading year, including five-star reads, p
 ---
 
 <p align="center">
-  <img src="/assets/images/storygraph-wrap-up-cover-collage-2025.jpg" alt="StoryGraph 2025 Wrap-Up">
+  <img src="/images/storygraph-wrap-up-cover-collage-2025.jpg" alt="StoryGraph 2025 Wrap-Up">
 </p>
 
 
@@ -36,7 +36,7 @@ I moved between genres deliberately. When one lane started to feel heavy, I swit
 ## Five-Star Reads
 
 <p align="center">
-  <img src="/assets/images/storygraph-5-star-reads-2025.png" alt="2025 5-Star Reads">
+  <img src="/images/storygraph-5-star-reads-2025.png" alt="2025 5-Star Reads">
 </p>
 
 
