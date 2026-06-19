@@ -18,6 +18,10 @@ layout: null
         font-family: sans-serif;
       }
 
+      :root {
+        --title-height: 64px;
+      }
+
       .page-title {
         margin: 0;
         padding: 16px 20px;
@@ -26,7 +30,7 @@ layout: null
       .optimizer-frame {
         display: block;
         width: 100%;
-        height: calc(100vh - 64px);
+        height: calc(100vh - var(--title-height));
         border: none;
         border-radius: 12px;
       }
@@ -37,6 +41,7 @@ layout: null
     <iframe
       class="optimizer-frame"
       src="https://claude.ai/public/artifacts/185c781d-9a04-449d-afef-bd94cdd057f2"
+      sandbox="allow-scripts allow-same-origin"
       title="Blog Post Optimizer"
     ></iframe>
   </body>
